@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific
+*.docx
+*.json
+evaluation_results.json
+
+# IDEs
+.vscode/
+.idea/
